@@ -1,0 +1,2 @@
+#ignorar o diretório vendor e todos os arquivos dentro dele
+/vendor
